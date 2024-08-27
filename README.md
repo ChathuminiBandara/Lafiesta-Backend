@@ -2,7 +2,7 @@
 
 ## Backend of the LA-FIESTA Web POS System
 
-Read this document for a better understand how this system works !
+Read this document for a better understand how this system works ! 
 
 
 This repository contains the front-end code for the Java EE LA_FIESTA POS (Point of Sale) system. The front end is built using HTML, CSS, and JavaScript.
@@ -18,6 +18,7 @@ This repository contains the front-end code for the Java EE LA_FIESTA POS (Point
 - [License](#license)
 
 ## Introduction
+##API Documentation https://docs.google.com/document/d/1pCy9JENgrz7FquH7vtZExFBNYLAfRGaBgPlVv6aNTmE/edit?usp=sharing
 
 The Java EE POS System is a web-based point-of-sale system designed for small to medium-sized businesses. This system helps manage sales, inventory, and customer information efficiently.
 
