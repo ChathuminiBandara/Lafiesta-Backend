@@ -5,7 +5,7 @@
 Read this document for a better understand how this system works !
 
 
-This repository contains the front-end code for the Java EE POS (Point of Sale) system. The front end is built using HTML, CSS, and JavaScript.
+This repository contains the front-end code for the Java EE LA_FIESTA POS (Point of Sale) system. The front end is built using HTML, CSS, and JavaScript.
 
 ## Table of Contents
 
@@ -19,7 +19,7 @@ This repository contains the front-end code for the Java EE POS (Point of Sale) 
 
 ## Introduction
 
-The Java EE POS System is a web-based point of sale system designed for small to medium-sized businesses. This system helps manage sales, inventory, and customer information efficiently.
+The Java EE POS System is a web-based point-of-sale system designed for small to medium-sized businesses. This system helps manage sales, inventory, and customer information efficiently.
 
 
 ## Technologies Used
@@ -31,7 +31,7 @@ The Java EE POS System is a web-based point of sale system designed for small to
 
 
 ## Overview
-Togakade POS System is a web-based Point of Sale (POS) application developed to handle basic operations such as adding, searching, updating, and deleting records. The frontend is built using HTML, CSS, JavaScript, and jQuery, while the backend is powered by Java EE with Tomcat.
+LA-FIESTA POS System is a web-based Point of Sale (POS) application developed to handle basic operations such as adding, searching, updating, and deleting records. The frontend is built using HTML, CSS, JavaScript, and jQuery, while the backend is powered by Java EE with Tomcat.
 
 ## Features
 ### Customer Management:
